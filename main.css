@@ -1,0 +1,18 @@
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background-color: #4dffa6;
+  margin: 3em;
+  font-size: 120%;
+}
+
+h1 {
+  text-align: center;
+}
+
+cite {
+  opacity: 0;
+}
+
+cite:hover {
+  opacity: 1; !important;
+}

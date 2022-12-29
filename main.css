@@ -16,3 +16,10 @@ cite {
 cite:hover {
   opacity: 1; !important;
 }
+
+img {
+  display: block;
+  margin: 50 auto 50 auto;
+  width: 60%;
+  height: auto;
+}
